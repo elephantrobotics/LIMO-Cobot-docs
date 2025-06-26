@@ -36,7 +36,7 @@ We warmly welcome and encourage community members to improve documentation or ad
 2. Clone your forked repository to your local machine.
 3. Create a new branch for your changes.
 4. After making your changes, commit them to your fork.
-5. On GitHub, submit a merge request (MR) to the original repository’s `gitbook-en` branch.
+5. On GitHub, submit a merge request (MR) to the original repository’s `main` branch.
 6. In your MR description, clearly describe the changes you've made and why.
 7. After submitting your MR, please be patient for our team to review it.
 
