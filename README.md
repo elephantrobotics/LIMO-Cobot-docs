@@ -8,7 +8,9 @@ Before you begin, please make sure you are familiar with basic Git operations an
 
 ## Document jump link
 
-[SUMMARY_280_M5_EN](myCobot_280M5/SUMMARY_280_M5.md)
+[SUMMARY_280_M5_CN](./mycobot_280_M5(2023)cn/SUMMARY.md)
+
+[SUMMARY_280_M5_EN](./mycobot_280_M5(2023)en/SUMMARY.md)
 
 [Limo_Pro_user_manual(EN)](LIMO_PRO/Limo%20Pro%20user%20manual(EN).md)
 
