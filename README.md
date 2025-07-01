@@ -12,8 +12,13 @@ Before you begin, please make sure you are familiar with basic Git operations an
 
 [SUMMARY_280_M5_EN](./mycobot_280_M5(2023)en/SUMMARY.md)
 
-[Limo_Pro_user_manual(EN)](LIMO_PRO/Limo%20Pro%20user%20manual(EN).md)
+[Limo_Pro_user_manual(CN)](./limo_pro/Limo%20Pro%20user%20manual(CN).md)
 
+[Limo_Pro_user_manual(EN)](./limo_pro/Limo%20Pro%20user%20manual(EN).md)
+
+[Limo_Pro_ROS2 Foxy_user_manual(CN)](./limo_pro/Limo%20Pro%20Ros2%20Foxy%20user%20manual(CN).md)
+
+[Limo_Pro_ROS2 Foxy_user_manual(EN)](./limo_pro/Limo%20Pro%20Ros2%20Foxy%20user%20manual(EN).md)
 
 ## How to Report Issues
 
